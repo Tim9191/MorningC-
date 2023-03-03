@@ -1,6 +1,6 @@
 ﻿// Task 1. Напишите программу, которая перевернёт одномерный массив (последний элемент будет на первом месте, 
 // а первый - на последнем и т.д.)
-
+/*
 void ReverseArray(int[] array)
 {
     for (int i = 0, j = array.Length - 1; i < j; i++, j--)
@@ -134,3 +134,4 @@ Console.Write("Input the number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(ConvertToBin(number));
+*/
